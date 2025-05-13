@@ -4,7 +4,7 @@ public class PersonagemMain {
 
         person.nome = "Joao";
         person.subirNivel();
-        //teste
+        //test
 
     }
 }
