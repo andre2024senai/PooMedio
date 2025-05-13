@@ -3,9 +3,9 @@
 public class Main {
     public static void main(String[] args) {
 
-        for (int i = 1; i <= 100; i++) {
+        for (int i = 1; i <= 5; i++) {
 
-            System.out.println("i = " + i + " Você é bem legal!!");
+            System.out.println("Boa tarde!!!");
         }
     }
 }
